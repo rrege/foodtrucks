@@ -1,0 +1,7 @@
+For this project, my team and I were tasked with developing a database mated to a user interface. 
+The database is created and populated with the initial data and stored procedures with the attached SQL script.
+We chose to create a desktop user interface using Python 3.7 and PyQt5, in the attached Python script.
+
+To use the application, first run the SQL script on your computer.
+Next, in the Python script, starting on line 2507, input your SQL server credentials. 
+Finally, from the command line or your IDE, run the file.
